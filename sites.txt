@@ -1,0 +1,10 @@
+amazon.com
+automationpractice.com
+restful-booker.herokuapp.com
+GOOGLE.COM
+python.ORG
+GitHub.com
+weather.gov
+Wikipedia.org
+stackoverflow.com
+DINOSTOMATOPIE.com
